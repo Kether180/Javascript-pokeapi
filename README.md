@@ -1,5 +1,5 @@
 
-# Project Vue-Pokemon =======
+# Project Vue-Pokemon 
 
 
  ### Task Description
