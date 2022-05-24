@@ -41,7 +41,7 @@ npm install
 ### Run Vue
 
 ```
- run dev s
+ npm run dev
 ```
 =======
 # Vue-Javascript-pokeapi
