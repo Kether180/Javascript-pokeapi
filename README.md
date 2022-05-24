@@ -4,7 +4,7 @@
 
  ### Task Description
 
-Small single page web application using Vue JS that lists Pokemon characteristics.).
+Small single page web application using Vue JS that lists Pokemon characteristics.
 
 In order to accomplish this task we have used https://pokeapi.co/ APIs to get the necessary
 information. Here is a link to the documentation:
