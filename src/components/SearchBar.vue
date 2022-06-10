@@ -21,6 +21,8 @@ export default {
   },
   methods: {
     setPokemonUrl(url) {
+    
+     this.searchvalue = this.searchvalue.toLocaleLowerCase(); // toLowerCase
       if (this.searchvalue !== "")
         this.$emit("setPokemonUrl", this.apiUrl + this.searchvalue);
     },
